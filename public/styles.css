@@ -128,7 +128,7 @@ a.button {
 
 .card {
   width: 100%;
-  max-width: 70rem;
+  max-width: 50rem;
   padding: 3rem;
   border: 1px solid var(--card-border);
   border-radius: 0.5rem 3rem;
