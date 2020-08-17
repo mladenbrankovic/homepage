@@ -113,19 +113,6 @@ a.button {
   }
 }
 
-.hovering {
-  animation: 1.5s ease-in-out hover infinite alternate;
-}
-
-@keyframes hover {
-  from {
-    transform: translateY(0);
-  }
-  to {
-    transform: translateY(-0.3rem);
-  }
-}
-
 .card {
   width: 100%;
   max-width: 50rem;
