@@ -114,7 +114,7 @@ a.button {
 }
 
 .hovering {
-  animation: 1.5s ease-in-out hover infinite alternate;
+  animation: 3s ease-in-out hover infinite alternate;
 }
 
 @keyframes hover {
@@ -163,7 +163,7 @@ a.button {
   margin-top: 0;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 600px) {
   .buttons {
     flex-direction: row;
   }
